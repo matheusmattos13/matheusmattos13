@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/matheus13.mattos)
 
 ![Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmattos13&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmattos13)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmattos13)
 
 ## Tecnologias
 
